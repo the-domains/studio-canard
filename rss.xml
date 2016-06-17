@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[<b>Studio Canard</b>]]></title>
-        <description><![CDATA[<b>Studio Canard</b>]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[tudio&nbsp;CanardS]]></title>
+        <description><![CDATA[tudio&nbsp;CanardS]]></description>
+        <link>https://thegrid.ai/studio-canard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 17:22:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 17:23:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio-canard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfb6791c-162d-4e1c-8069-d741aec4a55c.jpg">]]></description>
+            <link>https://thegrid.ai/studio-canard/e1fa6b78-6840-4a5e-9f06-3f37fff92213/index.html</link>
+            <guid isPermaLink="false">e1fa6b78-6840-4a5e-9f06-3f37fff92213</guid>
+            <pubDate>Fri, 17 Jun 2016 17:23:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Studio Canard 1920x1080 trailer]]></title>
             <description><![CDATA[<article><h1>Studio Canard 1920x1080 trailer</h1><p>funny little animation for the company, what do you think guys? Could still do with some finishing touches but almost there I think.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/206c9f5480fce3abd473f12e70479dde/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FVF8OHFLWkUQ%2Fmaxresdefault.jpg"></article>]]></description>
